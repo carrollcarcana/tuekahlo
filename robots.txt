@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piedietahz.pengj.me/sitemap.xml
